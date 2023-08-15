@@ -1,7 +1,6 @@
 ---
 title: "Case: Flight Delay"
 author: "Pavani Pragada U1448226"
-date: "17th February'23"
 output: 
   html_document:
     toc: true
