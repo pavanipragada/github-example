@@ -1,9 +1,6 @@
 ---
 title: "Case: Flight Delay"
 author: "Pavani Pragada U1448226"
-output: 
-  html_document:
-    toc: true
 ---
 
 ```{r setup, include=FALSE}
