@@ -17,7 +17,6 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 <!-- - In the code chunk above ("setup") echo is set to TRUE.  This means that the code in your chunks will be displayed, along with the results, in your compiled document. -->
 
 ## Load packages and data
-
 ```{r}
 # Load packages
 library(tidyverse) 
