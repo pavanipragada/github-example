@@ -8,7 +8,6 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 ```
 
 <!-- Note:   -->
-
 <!-- These instructions are commented out and will not display when you knit your RMarkdown document. -->
 
 <!-- - Change the information in the yaml header above:  title, author, data. -->
